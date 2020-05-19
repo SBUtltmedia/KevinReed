@@ -1,0 +1,4 @@
+file 'videos/SplitFolders/Module 2 Isobars.mp4'
+file 'videos/SplitFolders/Module 2 Coriolis Force.mp4'
+file 'videos/SplitFolders/Module 2 Friction.mp4'
+file 'videos/SplitFolders/Module 2 Geostrophic Flow.mp4'

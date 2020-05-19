@@ -1,0 +1,3 @@
+file 'videos/SplitFolders/Module 8 Introduction to Heat Waves.mp4'
+file 'videos/SplitFolders/Module 8 Heat Wave Definition.mp4'
+file 'videos/SplitFolders/Module 8 Heat Waves and Impacts.mp4'

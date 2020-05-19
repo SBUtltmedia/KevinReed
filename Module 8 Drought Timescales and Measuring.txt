@@ -1,0 +1,3 @@
+file 'videos/SplitFolders/Module 8 Time Scale of Droughts.mp4'
+file 'videos/SplitFolders/Module 8 Measuring Droughts.mp4'
+file 'videos/SplitFolders/Module 8 Seasonal Drought.mp4'

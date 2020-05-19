@@ -1,0 +1,3 @@
+file 'videos/SplitFolders/Module 3 Vapor Pressure.mp4'
+file 'videos/SplitFolders/Module 3 Relative Humidity.mp4'
+file 'videos/SplitFolders/Module 3 Dew Point.mp4'

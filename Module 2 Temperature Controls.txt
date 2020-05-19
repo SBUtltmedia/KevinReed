@@ -1,0 +1,5 @@
+file 'videos/SplitFolders/Module 2 Temperature Control Latitude.mp4'
+file 'videos/SplitFolders/Module 2 Land Water Contrast.mp4'
+file 'videos/SplitFolders/Module 2 Ocean Currents.mp4'
+file 'videos/SplitFolders/Module 2 Altitude and Location.mp4'
+file 'videos/SplitFolders/Module 2 Clouds and Albedo.mp4'

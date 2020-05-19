@@ -1,0 +1,4 @@
+file 'videos/SplitFolders/Module 12 Mitigation and Adaptation I.mp4'
+file 'videos/SplitFolders/Module 12 Mitigation and Adaptation II.mp4'
+file 'videos/SplitFolders/Module 12 Mitigation and Adaptation III.mp4'
+file 'videos/SplitFolders/Module 12 Mitigation and Adaptation IV.mp4'

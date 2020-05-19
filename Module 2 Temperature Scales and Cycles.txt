@@ -1,0 +1,4 @@
+file 'videos/SplitFolders/Module 2 Temperature Scales.mp4'
+file 'videos/SplitFolders/Module 2 Heat Index and Wind Chill.mp4'
+file 'videos/SplitFolders/Module 2 Average Temperature.mp4'
+file 'videos/SplitFolders/Module 2 Daily Cycle of Temperature.mp4'

@@ -1,0 +1,4 @@
+file 'videos/Split Files/Module 7 Case Study Hurricane Sandy I.mp4'
+file 'videos/Split Files/Module 7 Case Study Hurricane Sandy II.mp4'
+file 'videos/Split Files/Module 7 Case Study Hurricane Katrina.mp4'
+file 'videos/Split Files/Module 7 Case Study Typhoon Haiyan.mp4'

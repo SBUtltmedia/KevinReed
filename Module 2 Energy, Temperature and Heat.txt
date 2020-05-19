@@ -1,0 +1,3 @@
+file 'videos/SplitFolders/Module 2 Kinetic and Potential Energy.mp4'
+file 'videos/SplitFolders/Module 2 Temperature Definition.mp4'
+file 'videos/SplitFolders/Module 2 Heat Transfer.mp4'

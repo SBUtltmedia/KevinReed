@@ -1,0 +1,4 @@
+file 'videos/SplitFolders/Module 3 Stability I.mp4'
+file 'videos/SplitFolders/Module 3 Stability II.mp4'
+file 'videos/SplitFolders/Module 3 Instability.mp4'
+file 'videos/SplitFolders/Module 3 Applications of Stability.mp4'

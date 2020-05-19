@@ -1,0 +1,3 @@
+file 'videos/SplitFolders/Module 8 The Cost of Droughts.mp4'
+file 'videos/SplitFolders/Module 8 Economic Impacts of Droughts.mp4'
+file 'videos/SplitFolders/Module 8 Droughts and Public Health.mp4'

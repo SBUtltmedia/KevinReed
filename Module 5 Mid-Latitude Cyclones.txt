@@ -1,0 +1,4 @@
+file 'videos/SplitFolders/Module 5 Mid-Latitude Cyclones.mp4'
+file 'videos/SplitFolders/Module 5 Development of Midlatitude Cyclones.mp4'
+file 'videos/SplitFolders/Module 5 Midlatitude Cyclone Structure.mp4'
+file 'videos/SplitFolders/Module 5 Midlatitude Cyclones and the Jet Stream.mp4'

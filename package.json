@@ -1,0 +1,17 @@
+{
+  "name": "hemmick_lectures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "splitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "iconv-lite": "^0.5.1",
+    "strip-bom-stream": "^4.0.0",
+    "xlsx": "^0.16.0"
+  }
+}

@@ -1,0 +1,5 @@
+file 'videos/SplitFolders/Module 2 Radiation.mp4'
+file 'videos/SplitFolders/Module 2 Solar Radiation and Albedo.mp4'
+file 'videos/SplitFolders/Module 2 Scattering I.mp4'
+file 'videos/SplitFolders/Module 2 Scattering II.mp4'
+file 'videos/SplitFolders/Module 2 Absorption.mp4'

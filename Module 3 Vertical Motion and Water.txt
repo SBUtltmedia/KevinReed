@@ -1,0 +1,4 @@
+file 'videos/SplitFolders/Module 3 Adiabatic Processes.mp4'
+file 'videos/SplitFolders/Module 3 Buoyancy and Lifting.mp4'
+file 'videos/SplitFolders/Module 3 Cloud Formation.mp4'
+file 'videos/SplitFolders/Module 3 Orographic Lifting.mp4'

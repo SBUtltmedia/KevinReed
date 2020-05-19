@@ -1,0 +1,4 @@
+file 'videos/SplitFolders/Module 10 Define Weather and Climate.mp4'
+file 'videos/SplitFolders/Module 10 Atmospheric Structure and Climate.mp4'
+file 'videos/SplitFolders/Module 10 Atmospheric Composition and Climate.mp4'
+file 'videos/SplitFolders/Module 10 Solar Radiation and Climate.mp4'
